@@ -1,2 +1,2 @@
-# Studying-Python
-This is a repository to show my personal development in Python. Simple things.
+<h1> Python Project </h1>
+Creating games in python to show my progress.
